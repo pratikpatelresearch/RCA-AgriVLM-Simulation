@@ -20,7 +20,7 @@ The simulation provides five connected research views:
 
 ## Scientific boundary
 
-This is an interactive evidence-replay simulation built from frozen, accepted experimental artifacts. It does not execute live VLM inference, diagnose arbitrary uploaded images, transmit uploaded images or ratings, claim completed human-participant evaluation, or establish universal state-of-the-art superiority. Local image upload is preview-only; the selected frozen case remains the source of the displayed reasoning trace.
+This is an interactive evidence-replay simulation built from frozen, accepted experimental artifacts. It does not execute live VLM inference, diagnose arbitrary images, transmit images or ratings, claim completed human-participant evaluation, or establish universal state-of-the-art superiority. Reviewers select among six built-in publication-safe case visualizations; each selection loads its corresponding frozen reasoning trace.
 
 ## Run locally
 
